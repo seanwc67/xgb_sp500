@@ -1,4 +1,4 @@
-This project performs reasonable data processing and utilization of XGBoost classifiers. It is not expected to yield financial value. An improved version may yield modest value as a time-saver when sifting through companies to evaluate, provided it delivers reliable results over several subsequent years.
+This project performs data processing and utilization of XGBoost classifiers. It is not expected to yield financial value. An improved version may yield modest value as a time-saver when sifting through companies to evaluate, provided it delivers reliable results over several subsequent years.
 
 **Setup & Usage**
 ```bash
